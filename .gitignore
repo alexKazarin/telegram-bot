@@ -1,0 +1,9 @@
+# Ignore any log files
+**/logs
+*.log
+
+# Ignore target directory
+target/
+
+# Ignore idea directory
+.idea/
